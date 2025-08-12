@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS_C_CODE\\Code\\study_8_12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AF8C0B-44CD-4055-B837-BD96DF03565D}|study_8_12\\study_8_12.vcxproj|D:\\VS_C_CODE\\Code\\study_8_12\\study_8_12\\test_8_12_work.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6AF8C0B-44CD-4055-B837-BD96DF03565D}|study_8_12\\study_8_12.vcxproj|solutionrelative:study_8_12\\test_8_12_work.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AF8C0B-44CD-4055-B837-BD96DF03565D}|study_8_12\\study_8_12.vcxproj|D:\\VS_C_CODE\\Code\\study_8_12\\study_8_12\\test_8_12_study.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6AF8C0B-44CD-4055-B837-BD96DF03565D}|study_8_12\\study_8_12.vcxproj|solutionrelative:study_8_12\\test_8_12_study.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test_8_12_study.c",
+              "DocumentMoniker": "D:\\VS_C_CODE\\Code\\study_8_12\\study_8_12\\test_8_12_study.c",
+              "RelativeDocumentMoniker": "study_8_12\\test_8_12_study.c",
+              "ToolTip": "D:\\VS_C_CODE\\Code\\study_8_12\\study_8_12\\test_8_12_study.c",
+              "RelativeToolTip": "study_8_12\\test_8_12_study.c",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-12T01:40:25.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_8_12_work.c",
+              "DocumentMoniker": "D:\\VS_C_CODE\\Code\\study_8_12\\study_8_12\\test_8_12_work.c",
+              "RelativeDocumentMoniker": "study_8_12\\test_8_12_work.c",
+              "ToolTip": "D:\\VS_C_CODE\\Code\\study_8_12\\study_8_12\\test_8_12_work.c*",
+              "RelativeToolTip": "study_8_12\\test_8_12_work.c*",
+              "ViewState": "AgIAAMYAAAAAAAAAAAA0wNcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-12T00:27:56.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
